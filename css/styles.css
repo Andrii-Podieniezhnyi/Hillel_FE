@@ -14,8 +14,8 @@ button[type="submit"] {
     border: none;
 }
 
-form button:nth-child(14), 
-form button:nth-child(16) {
+.google-reg-btn, 
+.fb-reg-btn {
     width: 202px; 
     background-color: #FFFFFF; 
     border: 1px solid #EAEAEA;
